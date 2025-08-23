@@ -1,15 +1,35 @@
-# WhatsApp Baileys
+# Baileys-Fandirr - WhatsApp Bot Framework 2025 Spesial Edition
 
 <p align="center">
-  <img src="https://files.catbox.moe/srgbna.png" alt="Thumbnail" />
+  <img src="https://telegra.ph/file/73c10af04d7d5cf64204e.jpg" width="300" alt="Baileys Fandirr Logo" />
 </p>
 
-WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
-
-Actively developed and maintained, baileys continuously receives updates to enhance stability and performance. One of the main focuses is to improve the pairing and authentication processes to be more stable and secure. Pairing features can be customized with your own codes, making the process more reliable and less prone to interruptions.
-
-This library is highly suitable for building business bots, chat automation systems, customer service solutions, and various other communication automation applications that require high stability and comprehensive features. With a lightweight and modular design, baileys is easy to integrate into different systems and platforms.
+<p align="center">
+  <a href="https://github.com/BotzFandirr/Baileys"><img src="https://img.shields.io/github/stars/BotzFandirr/Baileys?style=for-the-badge" alt="Stars"></a>
+  <a href="https://www.npmjs.com/package/baileys-fandirr"><img src="https://img.shields.io/npm/v/@fandirr/baileys?style=for-the-badge" alt="NPM"></a>
+</p>
 
 ---
 
-berhenti update dan pindah ke npm "@whiskeysockets/baileys": "npm:@shennmime/baileys",
+**Baileys-Fandirr** adalah versi modifikasi dari [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), dirancang khusus untuk para developer bot WhatsApp di tahun 2025. Fokus utama versi ini adalah kestabilan pairing code, session auto-recovery, dan fitur tambahan eksklusif yang tidak tersedia di versi original.
+
+---
+
+## Keunggulan Utama
+
+- 🔒 **Pairing Kode Custom** — Pairing bot tanpa ribet dan full kendali
+- 🔄 **Session Recovery Otomatis** — Tidak perlu login ulang setiap waktu
+- 💡 **Support WhatsApp Business API** — Cocok untuk bot UMKM & bisnis besar
+- ⚙️ **Modular & Siap Pakai** — Gampang diintegrasikan ke berbagai jenis bot
+- 📱 **Multi-Device Compatible** — 100% jalan di WA MD versi terbaru
+- 💬 **Dukungan Komunitas Developer** — Dari dev, untuk dev
+- 💥 **Diuji Crash-Resistant** — Cocok untuk eksperimen bot tingkat lanjut
+
+
+
+## Instalasi
+
+```bash
+npm install @fandirr/baileys
+
+```

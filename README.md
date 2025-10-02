@@ -42,18 +42,18 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:nstar-y/bail"
+    "baileys": "github:BotzFandirr/Bail"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:nstar-y/bail
+npm install @fandirr/baileys
 ```
 
 Then import the default function in your code:
 ```ts 
 // type esm
-import makeWASocket from 'baileys'
+import makeWASocket from '@fandirr/baileys'
 ```
 
 ```js

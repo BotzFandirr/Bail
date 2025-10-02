@@ -2,13 +2,13 @@
 
 <div align="center">
 
-  <img src="https://iili.io/2Zpjtlp.jpg" />
+  <img src="https://fandirr.biz.id/img/logo.png" />
 
-  <a href="https://www.npmjs.com/package/baileys-mod">
+  <a href="https://www.npmjs.com/package/@fandirr/baileys">
     <img src="https://img.shields.io/npm/v/baileys-mod?color=red&label=Version&logo=npm" alt="npm version" />
   </a>
 
-  <a href="https://www.npmjs.com/package/baileys-mod">
+  <a href="https://www.npmjs.com/package/@fandirr/baileys">
     <img src="https://img.shields.io/npm/dt/baileys-mod?color=red&label=Downloads&logo=npm" alt="npm downloads" />
   </a>
 

@@ -53,12 +53,12 @@ npm install @fandirr/baileys
 Then import the default function in your code:
 ```ts 
 // type esm
-import makeWASocket from '@whiskeysockets/baileys'
+import makeWASocket from '@fandirr/baileys'
 ```
 
 ```js
 // type cjs
-const { default: makeWASocket } = require("@whiskeysockets/baileys")
+const { default: makeWASocket } = require("@fandirr/baileys")
 ```
 
 ## Connecting
